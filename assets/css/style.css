@@ -1382,3 +1382,6 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+.winner-name, .runner-name{
+  font-weight: bold;
+}

@@ -36,6 +36,9 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <script src="assets/data/2022.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 </head>
 
 <body>
@@ -90,14 +93,14 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Winners</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">Congratulations for winning championship 2022 (Team Name)
+          <h2 data-aos="fade-up" data-aos-delay="400">Congratulations <span class="winner-name"></span> for winning championship 2022 
           </h2>
           <!-- <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div> -->
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="assets/img/hero-img.png" class="img-fluid animated winner-image" alt="">
         </div>
       </div>
     </div>
@@ -109,14 +112,14 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up">Runner up Team</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">Congratulations for holding second position 2022 (Team Name)
+          <h2 data-aos="fade-up" data-aos-delay="400">Congratulations <span class="runner-name"></span> for holding second position 2022 
           </h2>
           <!-- <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div> -->
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="assets/img/hero-img.png" class="img-fluid animated runner-image" alt="">
         </div>
       </div>
     </div>
@@ -168,7 +171,7 @@
           <!-- <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p> -->
         </div>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="300">
+        <div class="row team-data-container" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-3 col-md-4">
             <div class="icon-box">
               <i class="ri-store-line" style="color: #ffbb2c;"></i>
@@ -193,6 +196,7 @@
               <h3><a href="">Team D</a></h3>
             </div>
           </div>
+          
           
         </div>
 
@@ -443,11 +447,11 @@
     <!-- End Testimonials Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <!-- <section id="portfolio" class="portfolio">
+    <section id="portfolio" class="portfolio">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Portfolio</h2>
+          <h2>Teams and it's Players</h2>
           <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
         </div>
 
@@ -464,20 +468,7 @@
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
+          
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
@@ -602,7 +593,7 @@
         </div>
 
       </div>
-    </section> -->
+    </section>
     <!-- End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
@@ -877,6 +868,8 @@
   <script src="assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
+  <script src="assets/js/render-data.js"></script>
+
   <script src="assets/js/main.js"></script>
 
 </body>
