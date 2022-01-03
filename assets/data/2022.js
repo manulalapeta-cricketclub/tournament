@@ -1,6 +1,6 @@
 let winners = {
     name:'Team Winners',
-    image:'assets/img/hero-img.png'
+    image:'assets/img/team/IMG_20210114_170752-removebg-preview.png'
 }
 let runners = {
     name:'Team Runners',
