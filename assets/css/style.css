@@ -1393,3 +1393,15 @@ section {
   /* background: rgba(34, 34, 34, 0.6); */
   background: none;
 }
+@media (max-width: 991px){
+#hero {
+    height: fit-content;
+}
+}
+@media (max-width: 768px){
+#hero {
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+}
