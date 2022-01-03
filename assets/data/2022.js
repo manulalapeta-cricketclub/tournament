@@ -4,7 +4,7 @@ let winners = {
 }
 let runners = {
     name:'Team Runners',
-    image:'assets/img/hero-img.png'
+    image:'assets/img/team/runners.png'
 }
 let teamsList = [
     {
