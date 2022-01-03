@@ -1385,3 +1385,11 @@ section {
 .winner-name, .runner-name{
   font-weight: bold;
 }
+.portfolio .portfolio-wrap {
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  /* background: rgba(34, 34, 34, 0.6); */
+  background: none;
+}
