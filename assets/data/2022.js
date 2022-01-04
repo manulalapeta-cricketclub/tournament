@@ -32,32 +32,32 @@ let playersList = [
         team_name:'Team A'
     },{
         player_name: 'Venkatesh',
-        player_pic: 'assets/img/team/venkatesh.jpeg',
+        player_pic: 'assets/img/team/Venky.png',
         team_id: 1,
         team_name:'Team A'
     },{
         player_name: 'Venkatesh',
-        player_pic: 'assets/img/team/venkatesh.jpeg',
+        player_pic: 'assets/img/team/Venky.png',
         team_id: 1,
         team_name:'Team A'
     },{
         player_name: 'Venkatesh',
-        player_pic: 'assets/img/team/venkatesh.jpeg',
+        player_pic: 'assets/img/team/Venky.png',
         team_id: 2,
         team_name:'Team B'
     },{
         player_name: 'Venkatesh',
-        player_pic: 'assets/img/team/venkatesh.jpeg',
+        player_pic: 'assets/img/team/Venky.png',
         team_id: 1,
         team_name:'Team A'
     },{
         player_name: 'Venkatesh',
-        player_pic: 'assets/img/team/venkatesh.jpeg',
+        player_pic: 'assets/img/team/Venky.png',
         team_id: 1,
         team_name:'Team A'
     },{
         player_name: 'Venkatesh',
-        player_pic: 'assets/img/team/venkatesh.jpeg',
+        player_pic: 'assets/img/team/Venky.png',
         team_id: 2,
         team_name:'Team B'
     },{
@@ -68,8 +68,20 @@ let playersList = [
     },
     {
         player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
+        player_pic: 'assets/img/team/Tej.png',
         team_id: 1,
         team_name:'Team A'
+    },
+    {
+        player_name: 'Sarat',
+        player_pic: 'assets/img/team/sarat.png',
+        team_id: 3,
+        team_name:'Team C'
+    },
+    {
+        player_name: 'Sarat',
+        player_pic: 'assets/img/team/sarat.png',
+        team_id: 2,
+        team_name:'Team B'
     }
 ]
