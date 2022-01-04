@@ -27,7 +27,7 @@ let teamsList = [
 let playersList = [
     {
         player_name: 'Teja',
-        player_pic: 'assets/img/team/teja.jpeg',
+        player_pic: 'assets/img/team/Teja_prev_ui.png',
         team_id: 1,
         team_name:'Team A'
     },{
@@ -62,13 +62,13 @@ let playersList = [
         team_name:'Team B'
     },{
         player_name: 'Teja',
-        player_pic: 'assets/img/team/teja.jpeg',
+        player_pic: 'assets/img/team/Teja_prev_ui.png',
         team_id: 2,
         team_name:'Team B'
     },
     {
         player_name: 'Teja',
-        player_pic: 'assets/img/team/Tej.png',
+        player_pic: 'assets/img/team/Teja_prev_ui.png',
         team_id: 1,
         team_name:'Team A'
     },
