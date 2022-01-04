@@ -83,5 +83,23 @@ let playersList = [
         player_pic: 'assets/img/team/sarat.png',
         team_id: 2,
         team_name:'Team B'
-    }
+    },
+     {
+         player_name: 'Chandhu',
+         player_pic: 'assets/img/team/chandhu.png',
+         team_id: 2,
+         team_name:'Team B'
+     },
+      {
+          player_name: 'Yeshwanth',
+          player_pic: 'assets/img/team/yeshwanth.png',
+          team_id: 2,
+          team_name:'Team B'
+      },
+       {
+           player_name: 'Sai Kiran',
+           player_pic: 'assets/img/team/saikiran.png',
+           team_id: 2,
+           team_name:'Team B'
+       }
 ]
