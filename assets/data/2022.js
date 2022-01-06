@@ -27,7 +27,7 @@ let teamsList = [
 let playersList = [
     {
         player_name: 'Kasa Venkatesh',
-        player_pic: 'assets/img/team/kasa.jpeg,
+        player_pic: 'assets/img/team/kasa.jpeg',
         team_id: 1,
         team_name:'Team A'
     },
