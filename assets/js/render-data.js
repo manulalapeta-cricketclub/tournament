@@ -39,6 +39,9 @@ var render_data = function () {
     var renderPlayers = function () {
         let allPlayers = '';
         playersList.map((player, index) => {
+            if (player.player_pic === null) {
+                player.player_pic = 'assets/img/team/unknown-r.png'
+            }
             let playerHtml = '<div class="col-lg-4 col-md-6 portfolio-item player-team-' + player.team_id + '"><div class="portfolio-wrap"><img src="' + player.player_pic + '" class="img-fluid" alt=""><div class="portfolio-info"><h4>' + player.player_name + '</h4><p>' + player.team_name + '</p></div></div></div>'
             allPlayers = allPlayers + playerHtml
         });
