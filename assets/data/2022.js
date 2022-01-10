@@ -29,73 +29,73 @@ let playersList=[
 		player_name: 'Madana Srikanth - Captain',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Sajja LakshmiKanth',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Y. Siva Subramanyam',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'M Venkatesh',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Gowrabathina Prasanth',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Gowrabathina Mahesh',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Muchi Sreenu',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Sajja SivaKumar',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'K Rakesh',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Mahesh',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Subbarayalu',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
 		player_name: 'Siva Sai',
 		player_pic: null,
 		team_id: 1,
-		team_name: 'TeamA'
+		team_name: 'Team Srikanth'
 	},
 	{
           player_name: 'Yeshwanth',
