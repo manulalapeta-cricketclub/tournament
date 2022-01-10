@@ -98,76 +98,76 @@ let playersList=[
 		team_name: 'Team Srikanth'
 	},
 	{
-          player_name: 'Yeshwanth',
+          player_name: 'Yeshwanth - Captain',
+          player_pic: 'assets/img/team/yeshwanth.png',
+          team_id: 2,
+          team_name:'Team Yeshwanth'
+      },
+      {
+          player_name: 'Teja',
+          player_pic: 'assets/img/team/Teja_prev_ui.png',
+          team_id: 2,
+          team_name:'Team Yeshwanth'
+      },
+      {
+          player_name: 'Kasa Venkatesh',
           player_pic: null,
           team_id: 2,
-          team_name:'Team B'
+          team_name:'Team Yeshwanth'
       },
       {
-          player_name: 'Yeshwanth',
-          player_pic: 'assets/img/team/yeshwanth.png',
-          team_id: 2,
-          team_name:'Team B'
-      },
-      {
-          player_name: 'Yeshwanth',
-          player_pic: 'assets/img/team/yeshwanth.png',
-          team_id: 2,
-          team_name:'Team B'
-      },
-      {
-          player_name: 'Yeshwanth',
-          player_pic: 'assets/img/team/yeshwanth.png',
-          team_id: 2,
-          team_name:'Team B'
-      },
-      {
-          player_name: 'Yeshwanth',
-          player_pic: 'assets/img/team/yeshwanth.png',
-          team_id: 2,
-          team_name:'Team B'
-      },
-      {
-          player_name: 'Yeshwanth',
-          player_pic: 'assets/img/team/yeshwanth.png',
-          team_id: 2,
-          team_name:'Team B'
-      },
-      {
-          player_name: 'Yeshwanth',
-          player_pic: 'assets/img/team/yeshwanth.png',
-          team_id: 2,
-          team_name:'Team B'
-      },
-      {
-          player_name: 'Yeshwanth',
-          player_pic: 'assets/img/team/yeshwanth.png',
-          team_id: 2,
-          team_name:'Team B'
-      },
-      {
-          player_name: 'Yeshwanth',
+          player_name: 'Sapram Eshwaraiah (Dhawan)',
           player_pic: null,
           team_id: 2,
-          team_name:'Team B'
+          team_name:'Team Yeshwanth'
       },
       {
-          player_name: 'Yeshwanth',
+          player_name: 'Thupati Bhadra',
           player_pic: null,
           team_id: 2,
-          team_name:'Team B'
+          team_name:'Team Yeshwanth'
       },
       {
-          player_name: 'Yeshwanth',
+          player_name: 'Kompala Muni Pavan',
           player_pic: null,
           team_id: 2,
-          team_name:'Team B'
+          team_name:'Team Yeshwanth'
       },
       {
-          player_name: 'Yeshwanth',
+          player_name: 'Sajja Venkatesh (Chinna Tenkay)',
           player_pic: null,
           team_id: 2,
-          team_name:'Team B'
+          team_name:'Team Yeshwanth'
+      },
+      {
+          player_name: 'Karthik',
+          player_pic: null,
+          team_id: 2,
+          team_name:'Team Yeshwanth'
+      },
+      {
+          player_name: 'Shekar (Bolt)',
+          player_pic: null,
+          team_id: 2,
+          team_name:'Team Yeshwanth'
+      },
+      {
+          player_name: 'Marem Sai Leela Mohan',
+          player_pic: null,
+          team_id: 2,
+          team_name:'Team Yeshwanth'
+      },
+      {
+          player_name: 'Rohit Sharma',
+          player_pic: null,
+          team_id: 2,
+          team_name:'Team Yeshwanth'
+      },
+      {
+          player_name: 'Sudheer',
+          player_pic: null,
+          team_id: 2,
+          team_name:'Team Yeshwanth'
       },
       {
         player_name: 'Sarat',
