@@ -26,73 +26,73 @@ let teamsList = [
 ]
 let playersList=[
 	{
-		player_name: 'KasaVenkatesh',
+		player_name: 'Madana Srikanth (Captain)',
 		player_pic: null,
 		team_id: 1,
 		team_name: 'TeamA'
 	},
 	{
-		player_name: 'KasaVenkatesh',
+		player_name: 'Sajja LakshmiKanth',
 		player_pic: null,
 		team_id: 1,
 		team_name: 'TeamA'
 	},
 	{
-		player_name: 'KasaVenkatesh',
-		player_pic: 'assets/img/team/kasa.jpeg',
+		player_name: 'Y. Siva Subramanyam',
+		player_pic: ,
 		team_id: 1,
 		team_name: 'TeamA'
 	},
 	{
-		player_name: 'KasaVenkatesh',
-		player_pic: 'assets/img/team/kasa.jpeg',
-		team_id: 1,
-		team_name: 'TeamA'
-	},
-	{
-		player_name: 'KasaVenkatesh',
-		player_pic: 'assets/img/team/kasa.jpeg',
-		team_id: 1,
-		team_name: 'TeamA'
-	},
-	{
-		player_name: 'KasaVenkatesh',
-		player_pic: 'assets/img/team/kasa.jpeg',
-		team_id: 1,
-		team_name: 'TeamA'
-	},
-	{
-		player_name: 'KasaVenkatesh',
-		player_pic: 'assets/img/team/kasa.jpeg',
-		team_id: 1,
-		team_name: 'TeamA'
-	},
-	{
-		player_name: 'KasaVenkatesh',
-		player_pic: 'assets/img/team/kasa.jpeg',
-		team_id: 1,
-		team_name: 'TeamA'
-	},
-	{
-		player_name: 'KasaVenkatesh',
-		player_pic: 'assets/img/team/kasa.jpeg',
-		team_id: 1,
-		team_name: 'TeamA'
-	},
-	{
-		player_name: 'KasaVenkatesh',
+		player_name: 'M Venkatesh',
 		player_pic: null,
 		team_id: 1,
 		team_name: 'TeamA'
 	},
 	{
-		player_name: 'KasaVenkatesh',
+		player_name: 'Gowrabathina Prasanth',
 		player_pic: null,
 		team_id: 1,
 		team_name: 'TeamA'
 	},
 	{
-		player_name: 'KasaVenkatesh',
+		player_name: 'Gowrabathina Mahesh',
+		player_pic: null,
+		team_id: 1,
+		team_name: 'TeamA'
+	},
+	{
+		player_name: 'Muchi Sreenu',
+		player_pic: null,
+		team_id: 1,
+		team_name: 'TeamA'
+	},
+	{
+		player_name: 'Sajja SivaKumar',
+		player_pic: null,
+		team_id: 1,
+		team_name: 'TeamA'
+	},
+	{
+		player_name: 'K Rakesh',
+		player_pic: null,
+		team_id: 1,
+		team_name: 'TeamA'
+	},
+	{
+		player_name: 'Mahesh',
+		player_pic: null,
+		team_id: 1,
+		team_name: 'TeamA'
+	},
+	{
+		player_name: 'Subbarayalu',
+		player_pic: null,
+		team_id: 1,
+		team_name: 'TeamA'
+	},
+	{
+		player_name: 'Siva Sai',
 		player_pic: null,
 		team_id: 1,
 		team_name: 'TeamA'
