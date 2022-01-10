@@ -182,7 +182,7 @@ let playersList=[
         team_name:'Team Sai Kiran'
     },
     {
-        player_name: 'Subbarao',
+        player_name: 'Jakkala Subbarao',
         player_pic: null,
         team_id: 3,
         team_name:'Team Sai Kiran'
@@ -313,78 +313,78 @@ let playersList=[
         team_id: 4,
         team_name:'Chandu Choobies'
     },
-    {
-           player_name: 'Sai Kiran',
+     {
+           player_name: 'Sandeep - Captain',
            player_pic: null,
            team_id: 5,
-           team_name:'Team E'
+           team_name:'Team Sandeep'
      },
     {
-           player_name: 'Sai Kiran',
+           player_name: 'Kompala Lokesh',
            player_pic: null,
            team_id: 5,
-           team_name:'Team E'
+           team_name:'Team Sandeep'
        },
        {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
-           player_pic: 'assets/img/team/saikiran.png',
-           team_id: 5,
-           team_name:'Team E'
-       },
-       {
-           player_name: 'Sai Kiran',
+           player_name: 'Macha Venkatesh',
            player_pic: null,
            team_id: 5,
-           team_name:'Team E'
+           team_name:'Team Sandeep'
        },
        {
-           player_name: 'Sai Kiran',
+           player_name: 'Sajja Venkatesh (Harry)',
+           player_pic: 'assets/img/team/Venky.png',
+           team_id: 5,
+           team_name:'Team Sandeep'
+       },
+       {
+           player_name: 'Hemanth',
            player_pic: null,
            team_id: 5,
-           team_name:'Team E'
+           team_name:'Team Sandeep'
        },
+       {
+           player_name: 'Nakkal Sai',
+           player_pic: null,
+           team_id: 5,
+           team_name:'Team Sandeep'
+       },
+       {
+           player_name: 'Gowrabhathina Sravan Kumar',
+           player_pic: null,
+           team_id: 5,
+           team_name:'Team Sandeep'
+       },
+       {
+           player_name: 'Vishnu',
+           player_pic: null,
+           team_id: 5,
+           team_name:'Team Sandeep'
+       },
+       {
+           player_name: 'Sajja Sai (Left Hand)',
+           player_pic: null,
+           team_id: 5,
+           team_name:'Team Sandeep'
+       },
+       {
+           player_name: 'Balaji (Dish)',
+           player_pic: null,
+           team_id: 5,
+           team_name:'Team Sandeep'
+       },
+       {
+           player_name: 'Muchi Uday (Chinna Muchi)',
+           player_pic: null,
+           team_id: 5,
+           team_name:'Team Sandeep'
+       },
+       {
+           player_name: 'Jakkala Devendra',
+           player_pic: null,
+           team_id: 5,
+           team_name:'Team Sandeep'
+       }
        	
 	
 ]
