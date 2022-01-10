@@ -26,7 +26,7 @@ let teamsList = [
 ]
 let playersList=[
 	{
-		player_name: 'Madana Srikanth (Captain)',
+		player_name: 'Madana Srikanth - Captain',
 		player_pic: null,
 		team_id: 1,
 		team_name: 'TeamA'
@@ -39,7 +39,7 @@ let playersList=[
 	},
 	{
 		player_name: 'Y. Siva Subramanyam',
-		player_pic: ,
+		player_pic: null,
 		team_id: 1,
 		team_name: 'TeamA'
 	},
