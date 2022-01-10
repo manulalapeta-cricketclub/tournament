@@ -169,77 +169,77 @@ let playersList=[
           team_id: 2,
           team_name:'Team Yeshwanth'
       },
-      {
-        player_name: 'Sarat',
+       {
+        player_name: 'Sai Kiran - Captain',
+        player_pic: 'assets/img/team/saikiran.png',
+        team_id: 3,
+        team_name:'Team Sai Kiran'
+    },
+    {
+        player_name: 'Challa Sai Kumar',
         player_pic: null,
         team_id: 3,
-        team_name:'Team C'
+        team_name:'Team Sai Kiran'
     },
     {
-        player_name: 'Sarat',
+        player_name: 'Subbarao',
         player_pic: null,
         team_id: 3,
-        team_name:'Team C'
+        team_name:'Team Sai Kiran'
     },
     {
-        player_name: 'Sarat',
+        player_name: 'Sajja Sravan Kumar (Kaatre)',
         player_pic: null,
         team_id: 3,
-        team_name:'Team C'
+        team_name:'Team Sai Kiran'
     },
     {
-        player_name: 'Sarat',
-        player_pic: 'assets/img/team/sarat.png',
-        team_id: 3,
-        team_name:'Team C'
-    },
-    {
-        player_name: 'Sarat',
-        player_pic: 'assets/img/team/sarat.png',
-        team_id: 3,
-        team_name:'Team C'
-    },
-    {
-        player_name: 'Sarat',
-        player_pic: 'assets/img/team/sarat.png',
-        team_id: 3,
-        team_name:'Team C'
-    },
-    {
-        player_name: 'Sarat',
-        player_pic: 'assets/img/team/sarat.png',
-        team_id: 3,
-        team_name:'Team C'
-    },
-    {
-        player_name: 'Sarat',
-        player_pic: 'assets/img/team/sarat.png',
-        team_id: 3,
-        team_name:'Team C'
-    },
-    {
-        player_name: 'Sarat',
-        player_pic: 'assets/img/team/sarat.png',
-        team_id: 3,
-        team_name:'Team C'
-    },
-    {
-        player_name: 'Sarat',
-        player_pic: 'assets/img/team/sarat.png',
-        team_id: 3,
-        team_name:'Team C'
-    },
-    {
-        player_name: 'Sarat',
+        player_name: 'Yarasi Rajesh (Innapetti)',
         player_pic: null,
         team_id: 3,
-        team_name:'Team C'
+        team_name:'Team Sai Kiran'
+    },
+    {
+        player_name: 'Challa Venkateshwarlu',
+        player_pic: null,
+        team_id: 3,
+        team_name:'Team Sai Kiran'
+    },
+    {
+        player_name: 'Shaik Asif',
+        player_pic: null,
+        team_id: 3,
+        team_name:'Team Sai Kiran'
+    },
+    {
+        player_name: 'Ranga',
+        player_pic: null,
+        team_id: 3,
+        team_name:'Team Sai Kiran'
     },
     {
         player_name: 'Sarat',
+        player_pic: 'assets/img/team/sarat.png',
+        team_id: 3,
+        team_name:'Team Sai Kiran'
+    },
+    {
+        player_name: 'Balaji (Dubai)',
         player_pic: null,
         team_id: 3,
-        team_name:'Team C'
+        team_name:'Team Sai Kiran'
+    },
+    {
+        player_name: 'Gowrabathina Balu',
+        player_pic: null,
+        team_id: 3,
+        team_name:'Team Sai Kiran'
+    },
+    {
+        player_name: 'Ram Charan',
+        player_pic: null,
+        team_id: 3,
+        team_name:'Team Sai Kiran'
     },
     {
         player_name: 'Teja',
