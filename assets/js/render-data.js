@@ -35,6 +35,7 @@ var render_data = function () {
     var renderTeamAndPlayers = function () {
         renderTeamHeaders();
         renderPlayers();
+        renderWinnerAndRunnerPlayers();
     }
     var renderPlayers = function () {
         let allPlayers = '';
@@ -47,6 +48,15 @@ var render_data = function () {
         });
         $('.portfolio-container').html(allPlayers)
     }
+
+   /* var renderWinnerAndRunnerPlayers = function () {
+            let allPlayers = '';
+            yearList.map((player, index) => {
+                let playerHtml = '<div class="col-lg-4 col-md-6 portfolio-item player-team-' + player.year + '"><div class="portfolio-wrap"><img src="' + player.image + '" class="img-fluid" alt=""><div class="portfolio-info"><h4>' + player.name + '</h4><p>' + player.team_name + '</p></div></div></div>'
+                allPlayers = allPlayers + playerHtml
+            });
+            $('.portfolio-container').html(allPlayers)
+        }*/
     return {
         init: onLoad()
     }
