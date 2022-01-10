@@ -9,19 +9,19 @@ let runners = {
 let teamsList = [
     {
         team_id:1,
-        team_name: 'Team A'
+        team_name: 'Team Srikanth'
     },{
         team_id:2,
-        team_name: 'Team B'
+        team_name: 'Team Yeshwanth'
     },{
         team_id:3,
-        team_name: 'Team C'
+        team_name: 'Team Sai Kiran'
     },{
         team_id:4,
-        team_name: 'Team D'
+        team_name: 'Chandu Choobies'
     },{
         team_id:5,
-        team_name: 'Team E'
+        team_name: 'Team Sandeep'
     }
 ]
 let playersList=[
