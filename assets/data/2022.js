@@ -241,77 +241,77 @@ let playersList=[
         team_id: 3,
         team_name:'Team Sai Kiran'
     },
-    {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
+     {
+        player_name: 'Chandu - Captain',
+        player_pic: 'assets/img/team/chandhu.png',
         team_id: 4,
-        team_name:'Team D'
+        team_name:'Chandu Choobies'
     },
      {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
-        team_id: 4,
-        team_name:'Team D'
-    },
-     {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
-        team_id: 4,
-        team_name:'Team D'
-    },
-     {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
-        team_id: 4,
-        team_name:'Team D'
-    },
-     {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
-        team_id: 4,
-        team_name:'Team D'
-    },
-     {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
-        team_id: 4,
-        team_name:'Team D'
-    },
-     {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
-        team_id: 4,
-        team_name:'Team D'
-    },
-     {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
-        team_id: 4,
-        team_name:'Team D'
-    },
-     {
-        player_name: 'Teja',
+        player_name: 'Sapram Eswaraiah (Chico)',
         player_pic: null,
         team_id: 4,
-        team_name:'Team D'
+        team_name:'Chandu Choobies'
     },
      {
-        player_name: 'Teja',
+        player_name: 'Madana Balaji',
         player_pic: null,
         team_id: 4,
-        team_name:'Team D'
+        team_name:'Chandu Choobies'
     },
      {
-        player_name: 'Teja',
+        player_name: 'Sajja Lokesh',
         player_pic: null,
         team_id: 4,
-        team_name:'Team D'
+        team_name:'Chandu Choobies'
     },
      {
-        player_name: 'Teja',
-        player_pic: 'assets/img/team/Teja_prev_ui.png',
+        player_name: 'Sajja Srinivasulu ( Pedda Tenkay )',
+        player_pic: null,
         team_id: 4,
-        team_name:'Team D'
+        team_name:'Chandu Choobies'
+    },
+     {
+        player_name: 'Sajja Veerabhadraiah',
+        player_pic: null,
+        team_id: 4,
+        team_name:'Chandu Choobies'
+    },
+     {
+        player_name: 'Sajja Sai',
+        player_pic: null,
+        team_id: 4,
+        team_name:'Chandu Choobies'
+    },
+     {
+        player_name: 'Sajja Balaji',
+        player_pic: null,
+        team_id: 4,
+        team_name:'Chandu Choobies'
+    },
+     {
+        player_name: 'Madana Balaji (Jendapuram)',
+        player_pic: null,
+        team_id: 4,
+        team_name:'Chandu Choobies'
+    },
+     {
+        player_name: 'Sajja Rajesh',
+        player_pic: null,
+        team_id: 4,
+        team_name:'Chandu Choobies'
+    },
+     {
+        player_name: 'Bommini Srinuvasulu',
+        player_pic: null,
+        team_id: 4,
+        team_name:'Chandu Choobies'
+    },
+     {
+        player_name: 'Sajja Mohan Kumar',
+        player_pic: null,
+        team_id: 4,
+        team_name:'Chandu Choobies'
     },
     {
            player_name: 'Sai Kiran',
