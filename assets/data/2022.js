@@ -267,7 +267,7 @@ let playersList=[
     },
      {
         player_name: 'Sajja Srinivasulu ( Pedda Tenkay )',
-        player_pic: null,
+        player_pic: 'assets/img/team/PeddaTenkay.png',
         team_id: 4,
         team_name:'Chandu Choobies'
     },
@@ -315,7 +315,7 @@ let playersList=[
     },
      {
            player_name: 'Sandeep - Captain',
-           player_pic: null,
+           player_pic: 'assets/img/team/Sandeep.png',
            team_id: 5,
            team_name:'Team Sandeep'
      },
