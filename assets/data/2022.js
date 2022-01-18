@@ -1,10 +1,10 @@
 let winners = {
     name:'Team Winners',
-    image:'assets/img/team/IMG_20210114_170752-removebg-preview.png'
+    image:'assets/img/team/winners.png'
 }
 let runners = {
     name:'Team Runners',
-    image:'assets/img/team/runners.png'
+    image:'assets/img/team/Runners.png'
 }
 let teamsList = [
     {
@@ -44,8 +44,8 @@ let playersList=[
 		team_name: 'Team Srikanth'
 	},
 	{
-		player_name: 'M Venkatesh',
-		player_pic: null,
+		player_name: 'Madana Venkatesh',
+		player_pic: 'assets/img/team/Konda.png',
 		team_id: 1,
 		team_name: 'Team Srikanth'
 	},
@@ -117,19 +117,19 @@ let playersList=[
       },
       {
           player_name: 'Sapram Eshwaraiah (Dhawan)',
-          player_pic: null,
+          player_pic: 'assets/img/team/Shikar.png',
           team_id: 2,
           team_name:'Team Yeshwanth'
       },
       {
           player_name: 'Thupati Bhadra',
-          player_pic: null,
+          player_pic: 'assets/img/team/Bhadra.png',
           team_id: 2,
           team_name:'Team Yeshwanth'
       },
       {
           player_name: 'Kompala Muni Pavan',
-          player_pic: null,
+          player_pic: 'assets/img/team/MuniPavan.png',
           team_id: 2,
           team_name:'Team Yeshwanth'
       },
@@ -165,7 +165,7 @@ let playersList=[
       },
       {
           player_name: 'Sudheer',
-          player_pic: null,
+          player_pic: 'assets/img/team/Sudheer.png',
           team_id: 2,
           team_name:'Team Yeshwanth'
       },
@@ -189,7 +189,7 @@ let playersList=[
     },
     {
         player_name: 'Sajja Sravan Kumar (Kaatre)',
-        player_pic: null,
+        player_pic: 'assets/img/team/Kaatre.png',
         team_id: 3,
         team_name:'Team Sai Kiran'
     },
@@ -321,7 +321,7 @@ let playersList=[
      },
     {
            player_name: 'Kompala Lokesh',
-           player_pic: null,
+           player_pic: 'assets/img/team/Sathi.png',
            team_id: 5,
            team_name:'Team Sandeep'
        },
@@ -381,7 +381,7 @@ let playersList=[
        },
        {
            player_name: 'Jakkala Devendra',
-           player_pic: null,
+           player_pic: 'assets/img/team/Devendra.png',
            team_id: 5,
            team_name:'Team Sandeep'
        }
