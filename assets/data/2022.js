@@ -261,7 +261,7 @@ let playersList=[
     },
      {
         player_name: 'Sajja Lokesh',
-        player_pic: 'assets/img/team/Lokeshkodi.png',
+        player_pic: 'assets/img/team/lokeshkodi.png',
         team_id: 4,
         team_name:'Chandu Choobies'
     },
